@@ -1,0 +1,27 @@
+{
+  "project": "BiliTerminal Plus",
+  "latestChannel": "debug",
+  "release": {
+    "versionCode": 2026070101,
+    "versionName": "哔哩终端+beta0.4 Release",
+    "apkUrl": "",
+    "apkSha256": "",
+    "changelog": [
+      "当前暂无 Release 版本"
+    ],
+    "force": false
+  },
+  "debug": {
+    "versionCode": 2026070102,
+    "versionName": "哔哩终端+beta0.4 Debug",
+    "apkUrl": "",
+    "apkSha256": "",
+    "changelog": [
+      "新增应用内检查更新功能",
+      "支持 Debug / Release 双通道展示",
+      "Debug 版安装前会提醒核心破解覆盖安装风险"
+    ],
+    "force": false,
+    "warning": "Debug 版与 Release 版签名不同，覆盖安装通常需要核心破解/签名校验绕过。"
+  }
+}
