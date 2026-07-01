@@ -3,25 +3,31 @@
   "latestChannel": "debug",
   "release": {
     "versionCode": 2026070101,
-    "versionName": "哔哩终端+beta0.4 Release",
-    "apkUrl": "",
-    "apkSha256": "",
+    "versionName": "\u54d4\u54e9\u7ec8\u7aef+beta0.4 Release",
+    "apkUrl": "https://github.com/lkf1111117/BiliTerminal-Plus/releases/download/beta0.4/BiliTerminal.Plus-Beta0.4.Release.apk",
+    "apkSha256": "51F6BEEC36CDD9DE32EC2B40EA03A010EF6AD6FEC46C8D0759C60CE1AD4C186E",
     "changelog": [
-      "当前暂无 Release 版本"
+      "\u65b0\u589e BTP \u5e94\u7528\u5185\u66f4\u65b0\u529f\u80fd\uff0c\u66f4\u65b0\u6e90\u4f7f\u7528 GitHub \u4ed3\u5e93 update.json",
+      "\u652f\u6301 Debug / Release \u53cc\u901a\u9053\u5c55\u793a",
+      "\u65b0\u589e\u66f4\u65b0\u8bbe\u7f6e\uff1a\u66f4\u65b0\u6e90\u3001\u81ea\u52a8\u68c0\u67e5\u3001\u5ffd\u7565 Debug \u548c\u624b\u52a8\u68c0\u67e5",
+      "\u4e0b\u8f7d\u5b8c\u6210\u540e\u4f1a\u6821\u9a8c SHA-256\uff0c\u5e76\u76f4\u63a5\u8c03\u7528\u7cfb\u7edf\u5b89\u88c5\u5668",
+      "\u4ece beta0.4 \u5f00\u59cb Debug \u548c Release \u4f7f\u7528\u540c\u4e00\u5957 BTP \u4e13\u5c5e\u7b7e\u540d"
     ],
     "force": false
   },
   "debug": {
-    "versionCode": 2026070102,
-    "versionName": "哔哩终端+beta0.4 Debug",
-    "apkUrl": "",
-    "apkSha256": "",
+    "versionCode": 2026070101,
+    "versionName": "\u54d4\u54e9\u7ec8\u7aef+beta0.4 Debug",
+    "apkUrl": "https://github.com/lkf1111117/BiliTerminal-Plus/releases/download/beta0.4/BiliTerminal.Plus-Beta0.4.Debug.apk",
+    "apkSha256": "A73D18B6F6420D227ED738B9652394442E11554BF810F47B4E0968BC0EAC35F6",
     "changelog": [
-      "新增应用内检查更新功能",
-      "支持 Debug / Release 双通道展示",
-      "Debug 版安装前会提醒核心破解覆盖安装风险"
+      "\u65b0\u589e BTP \u5e94\u7528\u5185\u66f4\u65b0\u529f\u80fd\uff0c\u66f4\u65b0\u6e90\u4f7f\u7528 GitHub \u4ed3\u5e93 update.json",
+      "\u652f\u6301 Debug / Release \u53cc\u901a\u9053\u5c55\u793a",
+      "\u65b0\u589e\u66f4\u65b0\u8bbe\u7f6e\uff1a\u66f4\u65b0\u6e90\u3001\u81ea\u52a8\u68c0\u67e5\u3001\u5ffd\u7565 Debug \u548c\u624b\u52a8\u68c0\u67e5",
+      "\u4e0b\u8f7d\u5b8c\u6210\u540e\u4f1a\u6821\u9a8c SHA-256\uff0c\u5e76\u76f4\u63a5\u8c03\u7528\u7cfb\u7edf\u5b89\u88c5\u5668",
+      "\u4ece beta0.4 \u5f00\u59cb Debug \u548c Release \u4f7f\u7528\u540c\u4e00\u5957 BTP \u4e13\u5c5e\u7b7e\u540d"
     ],
     "force": false,
-    "warning": "Debug 版与 Release 版签名不同，覆盖安装通常需要核心破解/签名校验绕过。"
+    "warning": "\u4ece beta0.4 \u5f00\u59cb Debug \u548c Release \u4f7f\u7528\u540c\u4e00\u5957 BTP \u4e13\u5c5e\u7b7e\u540d\u3002\u82e5\u4f60\u4ece beta0.3 \u6216\u66f4\u65e9\u7684\u9ed8\u8ba4 debug \u7b7e\u540d\u7248\u672c\u5347\u7ea7\uff0c\u666e\u901a\u7cfb\u7edf\u53ef\u80fd\u9700\u8981\u5148\u5378\u8f7d\u65e7\u7248\u518d\u5b89\u88c5\u3002"
   }
 }
